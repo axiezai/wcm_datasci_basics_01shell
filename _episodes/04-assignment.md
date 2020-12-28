@@ -18,15 +18,16 @@ exercises: 20
 
 ~~~
 #!/bin/sh
-curl --head --silent https://missing.csail.mit.edu
+curl --head --silent https://axiezai.github.io/wcm_datasci_basics_01shell/
 ~~~
 {: .bash}
 
  6. Try to execute the file, i.e. type the path to the script (`./datascibasics`) into your shell and press enter. Understand why it doesn’t work by consulting the output of `ls` (hint: look at the permission bits of the file).
 
  7. Run the command by explicitly starting the `sh` interpreter, and giving it the file `datascibasics` as the first argument, i.e. `sh datascibasics`. Why does this work, while `./datascibasics` didn’t?
+ 
  8. Look up the `chmod` program (e.g. use `man chmod`). This online interactive [chmod calculator](https://chmod-calculator.com/) is a handy tool to have book marked in your browser.
 
-Use `chmod` to make it possible to run the command `./datascibasics` rather than having to type `sh datascibasics`. How does your shell know that the file is supposed to be interpreted using `sh`? See this page on the [shebang line](https://en.wikipedia.org/wiki/Shebang_(Unix)) for more information.
+ 9. Use `chmod` to make it possible to run the command `./datascibasics` rather than having to type `sh datascibasics`. How does your shell know that the file is supposed to be interpreted using `sh`? See this page on the [shebang line](https://en.wikipedia.org/wiki/Shebang_(Unix)) for more information.
 
-Use `|` and `>` to write the “last modified” date output by `datascibasics` into a file called `last-modified.txt` in your home directory.
+ 10. Use `|` and `>` to write the “last modified” date output by `datascibasics` into a file called `last-modified.txt` in your home directory.
