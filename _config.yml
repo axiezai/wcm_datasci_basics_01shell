@@ -9,7 +9,7 @@ kind: "lesson"
 title: "What is the Shell?"
 
 # Repository URL (without trailing slash).
-repo: https://axiezai.github.io/wcm_datasci_basics_01shell/
+repo: https://github.com/axiezai/wcm_datasci_basics_01shell
  
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://neurohackweek.github.io/lesson-example', use '/lesson-example'.
