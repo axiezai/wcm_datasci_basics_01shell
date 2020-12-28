@@ -17,11 +17,11 @@ The following are instructions. Go to the [course website's Week 1 assignment pa
 
 5. Write the following into that file, one line at a time. The first line might be tricky to get working. It’s helpful to know that `#` starts a comment in Bash, and `!` has a special meaning even within double-quoted (`"`) strings. Bash treats single-quoted strings (`'`) differently: they will do the trick in this case. See the [Bash quoting](https://www.gnu.org/software/bash/manual/html_node/Quoting.html) manual page for more information.
 
-~~~
-#!/bin/sh
-curl --head --silent https://axiezai.github.io/wcm_datasci_basics_01shell/
-~~~
-{: .bash}
+    ~~~
+    #!/bin/sh
+    curl --head --silent https://axiezai.github.io/wcm_datasci_basics_01shell/
+    ~~~
+    {: .bash}
 
 6. Try to execute the file, i.e. type the path to the script (`./datascibasics`) into your shell and press enter. Understand why it doesn’t work by consulting the output of `ls` (hint: look at the permission bits of the file).
 
