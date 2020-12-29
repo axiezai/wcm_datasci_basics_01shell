@@ -4,7 +4,7 @@ teaching: 25
 exerises: 0
 questions: 
 - "What is the Shell?"
-objectivs:
+objectives:
 - "Familiarize with your own shell prompt"
 - "Interact with basic shell programs" 
 keypoints:

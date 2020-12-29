@@ -4,7 +4,7 @@ teaching: 25
 exerises: 0
 questions: 
 - "How to navigate your computer in the shell"
-objectivs:
+objectives:
 - "Begin navigating the shell"
 - "Understand file permissions" 
 keypoints:

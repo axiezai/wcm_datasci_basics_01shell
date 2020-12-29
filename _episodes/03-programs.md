@@ -4,7 +4,7 @@ teaching: 25
 exerises: 0
 questions: 
 - "How to work with shell input and output streams"
-objectivs:
+objectives:
 - "Begin navigating the shell"
 - "Understand file permissions" 
 keypoints:
