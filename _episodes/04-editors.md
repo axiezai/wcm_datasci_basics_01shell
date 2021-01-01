@@ -7,12 +7,12 @@ questions:
 - "What are the core philosophies behind vim?"
 objectives:
 - "Invest time in editors to save yourself time!"
-- "Understand file permissions" 
 keypoints:
-- "Use `cd` and `ls` to navigate your file system"
-- "Files have permissions indicated by `rwx`"
-- "`mv`, `cp`, and `mkdir` are useful programs"
-- "Check a program's usage with `man`"
+- "Vim is a modal editor that tries to match the speed at which you think"
+- "Normal mode editing and moving around"
+- "Insert mode for inserting text"
+- "Visual for selecting lines or blocks of text"
+- "Command-line for running vim commands"
 ---
 
 ## Editors (Vim)
@@ -108,9 +108,9 @@ You should spend most of your time in Normal mode, using movement commands to na
 #### Selection
 Visual modes:
 
- - Visual
- - Visual Line
- - Visual Block
+ - Visual - `v`
+ - Visual Line - `V`
+ - Visual Block - `Ctrl+v`
 
 Can use movement keys to make selection.
 
@@ -238,3 +238,4 @@ Resources
 > 4. To practice using Vim, re-do the Demo from lecture on your own machine.
 > 5. Use Vim for all your text editing for the next month. Whenever something seems inefficient, or when you think “there must be a better way”, try Googling it, there probably is.
 > 6. Configure your other tools to use Vim bindings (see instructions above).
+{: .challenge}
