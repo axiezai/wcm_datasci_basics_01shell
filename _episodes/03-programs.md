@@ -1,6 +1,6 @@
 ---
 title: "Connecting Programs"
-teaching: 25
+teaching: 10
 exerises: 0
 questions: 
 - "How to work with shell input and output streams"
@@ -40,7 +40,7 @@ ludus:~$ curl --head --silent google.com | grep --ignore-case content-length | c
 ~~~
 {: .bash}
 
-We will go into a little more detail about how to take advantage of pipes future examples.
+We will go into a little more detail about how to take advantage of pipes with future examples.
 
 ## Next steps:
 At this point you know your way around a shell enough to accomplish basic tasks. You should be able to navigate around to find files of interest and use the basic functionality of most programs. In the next lecture, we will talk about how to perform and automate more complex tasks using the shell and the many handy command-line programs out there.

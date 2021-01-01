@@ -1,6 +1,6 @@
 ---
 title: "What is the Shell?"
-teaching: 25
+teaching: 10 
 exerises: 0
 questions: 
 - "What is the Shell?"

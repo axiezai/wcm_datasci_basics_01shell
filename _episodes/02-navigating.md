@@ -1,6 +1,6 @@
 ---
 title: "Navigating the shell"
-teaching: 25
+teaching: 10 
 exerises: 0
 questions: 
 - "How to navigate your computer in the shell"
