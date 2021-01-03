@@ -19,7 +19,7 @@ The following are instructions. Go to the [course website's Week 1 assignment pa
 
     ~~~
     #!/bin/sh
-    curl --head --silent https://wcm-datascibasics.github.io/assignments/chapter1.html 
+    curl --head --silent https://wcm-datascibasics.github.io
     ~~~
     {: .bash}
 
