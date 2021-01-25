@@ -119,14 +119,15 @@ Everything that you used to do with the mouse, you now do with the keyboard usin
 
  - i enter Insert mode
    - but for manipulating/deleting text, want to use something more than backspace
- - o / O insert line below / above
- - d{motion} delete {motion}
+ - `o / O` insert line below / above
+ - `d{motion}` delete {motion}
    - e.g. `dw` is delete word, `d$` is delete to end of line, `d0` is delete to beginning of line
  - `c{motion}` change `{motion}`
    - e.g. `cw` is change word
         like `d{motion}` followed by `i`
- - x delete character (equal do `dl`)
- - s substitute character (equal to `xi`)
+ - `x` delete character (equal do `dl`)
+ - `s` substitute character (equal to `xi`)
+ - `r` replace character
  - Visual mode + manipulation
    - select text, `d` to delete it or `c` to change it
  - `u` to undo, `<C-r>` to redo
