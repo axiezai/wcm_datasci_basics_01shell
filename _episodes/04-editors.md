@@ -18,7 +18,7 @@ keypoints:
 ## Editors (Vim)
 Writing English words and writing code are very different activities. When programming, you spend more time switching files, reading, navigating, and editing code compared to writing a long stream. It makes sense that there are different types of programs for writing English words versus code (e.g. Microsoft Word versus Visual Studio Code).
 
-For data analysis tasks, we spend most of our time editing code, so it's worth investing time mastering an editor that fits your needs. Here's how you learnr a new editor:
+For data analysis tasks, we spend most of our time editing code, so it's worth investing time mastering an editor that fits your needs. Here's how you learn a new editor:
 
  - Start with a tutorial (i.e. this lecture, plus resources that we point out)
  - Stick with using the editor for all your text editing needs (even if it slows you down initially)
